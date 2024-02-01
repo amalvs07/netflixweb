@@ -91954,7 +91954,7 @@ return A.J($async$xf,r)},
 $iaFY:1}
 A.Oo.prototype={
 F(a){var s=null,r=A.a([A.Ks(new A.aea(),t.t6),A.Ks(new A.aeb(),t.HJ),A.Ks(new A.aec(),t.vw),A.Ks(new A.aed(),t.Qe),A.Ks(new A.aee(),t.gh)],t.Ds),q=A.b_C().$0().d
-return A.aSu(new A.BE(new A.Dq(s),"Flutter Demo",A.aGx(B.Ag,s,A.aCW(s,s,B.a0,s,s,B.c5).alf(B.l),q,B.l,B.SW,s),!1,s),r)}}
+return A.aSu(new A.BE(new A.Dq(s),"Netflix",A.aGx(B.Ag,s,A.aCW(s,s,B.a0,s,s,B.c5).alf(B.l),q,B.l,B.SW,s),!1,s),r)}}
 A.aea.prototype={
 $1(a){return $.yF().$1$0(t.t6)},
 $S:566}
